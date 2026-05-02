@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "enchanteddvanilla.aternos.me:12448",
+    "ip": "enchanteddvanilla.aternos.me",
     "port": 12448,
     "version": "",
     "try-creative": false
